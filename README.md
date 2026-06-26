@@ -1,12 +1,11 @@
-# Soft Piano Melody: [Insert Beat Title Here]
+# Soft Piano Melody: [Imagine the future]
 
 ## Overview
-An ambient, non-aggressive instrumental track focused heavily on soft piano progressions, emotional depth, and atmospheric textures. Designed as a background score, lo-fi foundation, or cinematic melody.
+An ambient,soft piano progressions, emotional depth, and atmospheric textures. Designed as a background score, lo-fi foundation, or cinematic melody.
 
 ## Track Specifications
 * **Primary Instrument:** Acoustic Piano (Soft Layered)
-* **Tempo (BPM):** [e.g., 85 BPM]
-* **Key:** [e.g., A Minor]
+* **Tempo (BPM):** [e.g., 90 BPM]
 * **Vibe:** Melancholic, Relaxing, Peaceful, Cinematic
 
 
