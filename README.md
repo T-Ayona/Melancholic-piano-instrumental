@@ -5,7 +5,7 @@ An ambient,soft piano progressions, emotional depth, and atmospheric textures. D
 
 ## Track Specifications
 * **Primary Instrument:** Acoustic Piano (Soft Layered)
-* **Tempo (BPM):** [e.g., 90 BPM]
+* **Tempo (BPM):** [90 BPM]
 * **Vibe:** Melancholic, Relaxing, Peaceful, Cinematic
 
 
